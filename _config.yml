@@ -16,10 +16,10 @@ gridlayout: false # change to true if you want grd layout
 
 # Header and footer text
 # Change this text to yourown
-header_text: Me and my blog
+header_text: A blog to read before you read a book
 
 # find an image for your own home page and put it into the images folder
-header_feature_image: /images/teacup.jpg
+header_feature_image: /images/peony.jpg
 twitter_username: puboxford  #change to your own twitter account
 lang: en_gb
 # change the following to your name or site name
