@@ -7,7 +7,11 @@ description: "A website with blog posts and pages and links to other blogs" # us
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
 
+<<<<<<< HEAD
 avatar: assets/img/Bookpile.png
+=======
+avatar: assets/img/Avatar.png
+>>>>>>> 3b08c1899ba30378d5bf6f8570f94aa7876e3273
 favicon: assets/favicon.ico
 
 # Your blog on the home page can be arranged as a grid
