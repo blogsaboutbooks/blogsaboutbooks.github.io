@@ -7,11 +7,7 @@ description: "A website with blog posts and pages and links to other blogs" # us
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
 
-<<<<<<< HEAD
-avatar: assets/img/Bookpile.png
-=======
 avatar: assets/img/Avatar.png
->>>>>>> 3b08c1899ba30378d5bf6f8570f94aa7876e3273
 favicon: assets/favicon.ico
 
 # Your blog on the home page can be arranged as a grid
@@ -23,7 +19,7 @@ gridlayout: false # change to true if you want grd layout
 header_text: A blog to read before you read a book
 
 # find an image for your own home page and put it into the images folder
-header_feature_image: /images/peony.jpg
+header_feature_image: /images/peony.png
 twitter_username: puboxford  #change to your own twitter account
 lang: en_gb
 # change the following to your name or site name
