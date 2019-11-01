@@ -7,7 +7,7 @@ description: "A website with blog posts and pages and links to other blogs" # us
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
 
-avatar: assets/img/avatar.png
+avatar: assets/img/Avatar.png
 favicon: assets/favicon.ico
 
 # Your blog on the home page can be arranged as a grid
