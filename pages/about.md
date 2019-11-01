@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: What we do here and why #optional sub title to the post
 permalink: /about/
-header_feature_image:  /images/log.jpg #replace this for yours
+header_feature_image:  /images/AboutHead.jpg #replace this for yours
 tags:
 published: true
 description:
